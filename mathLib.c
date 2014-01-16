@@ -9,6 +9,9 @@ int sub(int x, int y) {
 	return x - y;
 }
 //mult
+int mult(int x, int y) {
+	return x * y;
+}
 //div
 
 int main() {
