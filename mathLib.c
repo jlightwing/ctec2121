@@ -2,7 +2,8 @@
 
 //add
 int add(int x, int y) {
-	return x + y;
+	int total = x+y;
+	return total;
 }
 //sub
 int sub(int x, int y) {
