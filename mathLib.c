@@ -1,5 +1,9 @@
 #include <stdio.h>
+//Mod
 
+int add(int x, int y) {
+	return x%y;
+}
 //add
 int add(int x, int y) {
 	int total = x+y;
